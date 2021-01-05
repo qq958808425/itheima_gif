@@ -10,4 +10,5 @@ public class User {
     private String username;
     private Integer password;
     private String nickname;
+    private String birthday;
 }
